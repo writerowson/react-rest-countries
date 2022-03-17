@@ -1,0 +1,10 @@
+nav a{
+    text-decoration: none;
+    margin: 20px;
+}
+.country{
+    margin: 20px;
+    background-color: aquamarine;
+    border: 3px solid tomato;
+    border-radius:  5rem;
+}
