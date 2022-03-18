@@ -1,15 +1,9 @@
-
-import { useEffect, useState } from 'react';
 import './App.css';
-import Countries from './componants/Countries/Countries';
-import Country from './componants/Countries/Country/Country';
+import Countries from './components/Countries/Countries';
 function App() {
-
-
   return (
     <div className="App">
       <Countries></Countries>
-      <Country></Country>
     </div>
   );
 }
