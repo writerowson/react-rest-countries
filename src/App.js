@@ -8,17 +8,6 @@ function App() {
   );
 }
 
-
-
-
-
-
-
-
-
-
-
-
 // function LoadCountries() {
 //   const [countries, setCountries] = useState([])
 
